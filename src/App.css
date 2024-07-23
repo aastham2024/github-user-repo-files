@@ -1,0 +1,8 @@
+
+.App {
+  background-color: #e7f3f0;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* the v in vh and vw stand for viewport which is the visible area in browser */
